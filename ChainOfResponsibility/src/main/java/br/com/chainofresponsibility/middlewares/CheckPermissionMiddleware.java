@@ -1,6 +1,5 @@
 package br.com.chainofresponsibility.middlewares;
 
-import br.com.chainofresponsibility.server.Server;
 
 public class CheckPermissionMiddleware extends Middleware {
     @Override

@@ -5,7 +5,6 @@ import br.com.adapter.paypal.IPayPalPayments;
 import br.com.adapter.utils.Token;
 
 public class PayoneerAdapter implements IPayPalPayments {
-    private Token token;
     private Payoneer payoneer;
 
     public PayoneerAdapter(Payoneer payoneer) {

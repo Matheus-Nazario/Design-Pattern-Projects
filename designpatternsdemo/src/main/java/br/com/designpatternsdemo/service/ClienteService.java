@@ -42,8 +42,9 @@ public class ClienteService implements IClienteService {
     @Override
     public void inserir(Cliente cliente) {
         salvarClienteComCep(cliente);
-
+        System.out.println();
     }
+
 
     @Override
     public void atualizar(Long id, Cliente cliente) {

@@ -5,7 +5,6 @@ import br.com.bridge.platforms.IPlatform;
 import br.com.bridge.platforms.TwitchTV;
 import br.com.bridge.platforms.Youtube;
 import br.com.bridge.trasmission.AdvancedLive;
-import br.com.bridge.trasmission.Live;
 
 public class Main {
     public static void main(String[] args) {
