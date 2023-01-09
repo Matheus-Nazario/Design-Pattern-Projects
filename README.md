@@ -62,7 +62,7 @@ Chain of Responsibility é um padrão de design comportamental que permite passa
 ### Clonando o serviço
 
 ```sh
- git clone https://github.com/Matheus-Nazario/Working-Design-Pattern.git
+ git clone https://github.com/Matheus-Nazario/Design-Pattern-Projects.git
 ```
 
 ### Executando o serviço
